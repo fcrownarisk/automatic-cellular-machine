@@ -43,7 +43,6 @@ typedef hexahedron{
 }
 typedef decahedron{
 
-
 }
 typedef icosahedron{
 
